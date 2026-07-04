@@ -1,0 +1,91 @@
+Date,Workout_Type,Duration_Minutes,Calories_Burned,Body_Weight_KG,Reps_or_Sets,Notes
+2026-03-19,Strength,63.0,327.0,84.8,3x11,Upper body push
+2026-03-20,Flexibility,22.0,66.0,84.8,N/A,Deep stretching
+2026-03-21,Flexibility,29.0,89.0,84.8,N/A,Mobility routine
+2026-03-22,Strength,59.0,367.0,84.7,4x10,Full body hypertrophy
+2026-03-23,Strength,65.0,383.0,84.7,4x11,Upper body push
+2026-03-24,Rest,0.0,0.0,84.6,N/A,Rest day
+2026-03-25,Sports,79.0,689.0,84.5,N/A,Swimming laps
+2026-03-26,Flexibility,27.0,82.0,84.4,N/A,Deep stretching
+2026-03-27,Strength,74.0,446.0,84.4,4x11,Lower body squats
+2026-03-28,Cardio,47.0,425.0,84.3,N/A,Stationary bike
+2026-03-29,Strength,59.0,305.0,84.3,3x11,Upper body push
+2026-03-30,Rest,0.0,0.0,84.3,N/A,Rest day
+2026-03-31,,,,84.3,N/A,Forgot to log details
+2026-04-01,Cardio,44.0,344.0,84.5,N/A,Treadmill run
+2026-04-02,Rest,0.0,0.0,84.4,N/A,Rest day
+2026-04-03,Cardio,40.0,315.0,84.5,N/A,HIIT circuit
+2026-04-04,Flexibility,26.0,111.0,84.3,N/A,Deep stretching
+2026-04-05,Cardio,52.0,422.0,84.2,N/A,HIIT circuit
+2026-04-06,Flexibility,22.0,81.0,83.9,N/A,Vinyasa Yoga
+2026-04-07,Rest,0.0,0.0,84.0,N/A,Rest day
+2026-04-08,Sports,73.0,692.0,83.8,N/A,Basketball with friends
+2026-04-09,Flexibility,29.0,106.0,83.9,N/A,Mobility routine
+2026-04-10,Cardio,33.0,307.0,83.6,N/A,Rowing machine
+2026-04-11,Flexibility,34.0,140.0,83.7,N/A,Vinyasa Yoga
+2026-04-12,Cardio,31.0,271.0,83.5,N/A,Stationary bike
+2026-04-13,Flexibility,25.0,92.0,83.4,N/A,Deep stretching
+2026-04-14,Rest,0.0,0.0,83.2,N/A,Rest day
+2026-04-15,Strength,74.0,386.0,83.1,3x10,Lower body squats
+2026-04-16,Cardio,-45.0,298.0,82.9,N/A,Treadmill run
+2026-04-17,Strength,45.0,235.0,82.7,4x11,Pull day
+2026-04-18,Cardio,49.0,403.0,82.7,N/A,Treadmill run
+2026-04-19,Strength,56.0,308.0,82.4,4x10,Upper body push
+2026-04-20,Cardio,52.0,418.0,82.4,N/A,Treadmill run
+2026-04-21,Flexibility,21.0,79.0,82.4,N/A,Deep stretching
+2026-04-22,Rest,0.0,0.0,82.5,N/A,Rest day
+2026-04-23,Sports,86.0,750.0,82.3,N/A,Tennis match
+2026-04-24,Strength,55.0,364.0,82.5,4x8,Upper body push
+2026-04-25,Strength,50.0,319.0,82.7,3x11,Full body hypertrophy
+2026-04-26,Flexibility,38.0,133.0,82.7,N/A,Mobility routine
+2026-04-27,Cardio,30.0,248.0,82.6,N/A,Rowing machine
+2026-04-28,Rest,0.0,0.0,82.5,N/A,Rest day
+2026-04-29,Cardio,52.0,446.0,82.3,N/A,Stationary bike
+2026-04-30,Strength,69.0,416.0,82.4,3x9,Upper body push
+2026-05-01,Cardio,41.0,353.0,82.4,N/A,HIIT circuit
+2026-05-02,Flexibility,35.0,149.0,82.2,N/A,Deep stretching
+2026-05-03,,,,82.0,N/A,Forgot to log details
+2026-05-04,Cardio,32.0,263.0,82.0,N/A,Treadmill run
+2026-05-05,Flexibility,37.0,119.0,82.1,N/A,Deep stretching
+2026-05-06,Strength,48.0,308.0,82.1,3x9,Upper body push
+2026-05-07,Cardio,53.0,466.0,82.1,N/A,Rowing machine
+2026-05-08,Flexibility,38.0,150.0,82.1,N/A,Deep stretching
+2026-05-09,Cardio,35.0,331.0,81.8,N/A,Rowing machine
+2026-05-10,Rest,0.0,0.0,81.9,N/A,Rest day
+2026-05-11,Strength,72.0,456.0,81.9,3x8,Full body hypertrophy
+2026-05-12,Flexibility,33.0,144.0,81.7,N/A,Mobility routine
+2026-05-13,Flexibility,24.0,105.0,81.7,N/A,Vinyasa Yoga
+2026-05-14,Strength,64.0,357.0,81.7,3x11,Pull day
+2026-05-15,Strength,47.0,250.0,81.7,3x9,Pull day
+2026-05-16,Sports,82.0,690.0,81.8,N/A,Swimming laps
+2026-05-17,Strength,70.0,453.0,81.6,3x8,Pull day
+2026-05-18,Flexibility,22.0,4500.0,81.3,N/A,Vinyasa Yoga
+2026-05-19,Cardio,36.0,306.0,81.3,N/A,Treadmill run
+2026-05-20,Cardio,43.0,399.0,81.2,N/A,Rowing machine
+2026-05-21,Cardio,31.0,238.0,81.1,N/A,Rowing machine
+2026-05-22,Flexibility,36.0,110.0,80.9,N/A,Deep stretching
+2026-05-23,Strength,55.0,288.0,80.8,3x11,Upper body push
+2026-05-24,Strength,50.0,255.0,80.8,4x9,Pull day
+2026-05-25,Flexibility,27.0,110.0,80.8,N/A,Vinyasa Yoga
+2026-05-26,Rest,0.0,0.0,80.6,N/A,Rest day
+2026-05-27,Flexibility,24.0,78.0,80.3,N/A,Deep stretching
+2026-05-28,Sports,85.0,913.0,80.1,N/A,Swimming laps
+2026-05-29,Strength,74.0,383.0,80.3,3x11,Upper body push
+2026-05-30,,,,80.6,4x11,Forgot to log details
+2026-05-31,Sports,84.0,758.0,80.7,N/A,Basketball with friends
+2026-06-01,Cardio,33.0,258.0,80.8,N/A,Stationary bike
+2026-06-02,Flexibility,29.0,128.0,80.8,N/A,Deep stretching
+2026-06-03,Strength,57.0,303.0,81.2,4x11,Pull day
+2026-06-04,Rest,0.0,0.0,81.2,N/A,Rest day
+2026-06-05,Rest,0.0,0.0,81.3,N/A,Rest day
+2026-06-06,Flexibility,22.0,87.0,81.3,N/A,Vinyasa Yoga
+2026-06-07,Sports,60.0,653.0,850.0,N/A,Tennis match
+2026-06-08,Cardio,58.0,443.0,850.1,N/A,Rowing machine
+2026-06-09,Strength,67.0,344.0,850.1,4x8,Lower body squats
+2026-06-10,Flexibility,21.0,71.0,850.0,N/A,Mobility routine
+2026-06-11,Cardio,58.0,439.0,850.1,N/A,Treadmill run
+2026-06-12,Sports,84.0,810.0,850.3,N/A,Basketball with friends
+2026-06-13,Sports,66.0,642.0,850.0,N/A,Swimming laps
+2026-06-14,Rest,0.0,0.0,849.8,N/A,Rest day
+2026-06-15,Rest,0.0,0.0,850.0,N/A,Rest day
+2026-06-16,Sports,68.0,621.0,849.9,N/A,Basketball with friends
