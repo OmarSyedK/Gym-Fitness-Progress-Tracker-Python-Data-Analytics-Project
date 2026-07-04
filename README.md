@@ -148,7 +148,6 @@ Gym-Fitness-Progress-Tracker/
 │
 ├── Gym_Fitness_Progress_Tracker.ipynb
 ├── fitness_workout_log.csv
-├── GymFitnessProgressTracker_FathimaSyedKaiser_Report.pdf
 ├── images/
 │   ├── weight_trend.png
 │   └── workout_distribution.png
